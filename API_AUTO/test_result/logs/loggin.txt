@@ -1,0 +1,72 @@
+2022-03-20 16:06:05,846-DEBUG-my_log.py-pythonmm-日志信息：可以吗
+2022-03-20 16:06:05,847-ERROR-my_log.py-pythonmm-日志信息：试一试
+2022-03-20 16:06:59,014-DEBUG-my_log.py-pythonmm-日志信息：可以吗
+2022-03-20 16:06:59,014-ERROR-my_log.py-pythonmm-日志信息：试一试
+2022-03-20 16:07:54,816-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:6020106 != 200
+2022-03-20 16:07:55,192-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:200 != 6020106
+2022-03-20 16:12:10,639-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:6020106 != 200
+2022-03-20 16:12:10,846-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:200 != 6020106
+2022-03-20 16:12:48,094-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:6020106 != 200
+2022-03-20 16:12:48,279-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:200 != 6020106
+2022-03-25 15:46:55,600-DEBUG-my_log.py-pythonmm-日志信息：可以吗
+2022-03-25 15:46:55,600-ERROR-my_log.py-pythonmm-日志信息：试一试
+2022-03-25 16:20:59,558-DEBUG-my_log.py-pythonmm-日志信息：可以吗
+2022-03-25 16:20:59,558-ERROR-my_log.py-pythonmm-日志信息：试一试
+2022-03-25 16:28:49,167-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:6020106 != 200
+2022-03-25 16:28:49,383-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:200 != 6020106
+2022-03-25 16:35:35,666-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:6020106 != 200
+2022-03-25 16:35:35,857-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:200 != 6020106
+2022-03-30 14:23:59,581-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:110005 != 10000
+2022-03-30 14:24:29,235-ERROR-my_log.py-pythonmm-日志信息：[执行用例出错了]:110005 != 10000
+2022-03-30 15:03:42,545-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:04:28,282-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:05:15,175-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:05:41,137-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:10:27,665-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:13:57,371-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:27:35,359-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:27:35,534-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:27:35,707-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:33:34,827-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:33:35,009-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:33:35,195-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:36:52,045-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:36:52,236-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:36:52,418-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:39:43,167-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:39:43,373-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:39:43,561-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:41:01,722-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 15:43:52,474-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:22:55,000-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:22:55,190-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:22:55,367-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:24:45,330-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:24:45,508-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:24:45,682-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:25:27,567-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:25:28,333-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:25:28,567-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:28:38,598-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:28:39,357-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:28:39,586-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:33:55,202-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:33:56,030-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:33:56,259-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:35:00,134-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:35:00,866-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:35:01,056-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:35:20,921-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:35:21,110-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:35:31,924-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:35:32,166-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:55:29,659-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:55:29,896-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:58:57,393-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 16:58:57,626-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 17:01:05,022-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 17:01:05,234-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 17:02:39,471-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 17:02:39,692-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 17:03:07,545-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
+2022-03-30 17:03:07,773-ERROR-my_log.py-pythonmm-日志信息：这里出现异常了
